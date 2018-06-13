@@ -49,7 +49,7 @@
   "dependencies": {
     "can-attribute-observable": "<2.0.0",
     "can-child-nodes": "^1.0.0",
-    "can-diff": "^1.0.1",
+    "can-diff": "^1.0.3",
     "can-dom-mutate": "^1.0.0",
     "can-fragment": "^1.0.0",
     "can-observation": "^4.0.0",
