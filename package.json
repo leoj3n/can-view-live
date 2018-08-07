@@ -47,7 +47,7 @@
     ]
   },
   "dependencies": {
-    "can-attribute-observable": "<2.0.0",
+    "can-attribute-observable": "1.1.1",
     "can-child-nodes": "^1.0.0",
     "can-diff": "^1.0.1",
     "can-dom-mutate": "^1.0.0",
